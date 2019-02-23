@@ -18,5 +18,8 @@ incremented by 1.
 
 code:
 
+![](images/assg3_1_code.PNG)	
+
 solution:
 
+![](images/assg3_1_solution.PNG)	
